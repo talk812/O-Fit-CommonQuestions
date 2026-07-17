@@ -1,99 +1,299 @@
 {
   "version": 1,
   "lastUpdated": "2026-07-17",
+  "organization": "O-FIT 原素運動空間",
   "faqs": [
     {
-      "category": "請假",
-      "question": "期班課程可以請假嗎？",
-      "answer": "可以。期班課程提供補課機制，每 4 堂課可補課 1 堂。以一期 8 堂課為例，最多可補課 2 堂。",
+      "category": "其他",
+      "question": "O-FIT 提供哪些服務？",
+      "answer": "提供團體課程、一對一客製化訓練、私人包班、教練外派及健康講座。",
       "tags": [
-        "請假",
-        "補課",
+        "服務"
+      ],
+      "keywords": [
+        "O-FIT",
+        "服務"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "O-FIT 的特色是什麼？",
+      "answer": "以8堂期班、TRX官方系統、小班制與功能性重量訓練為核心。",
+      "tags": [
+        "特色"
+      ],
+      "keywords": [
+        "特色",
+        "TRX"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "為什麼主打8堂期班？",
+      "answer": "循序建立肌力、核心穩定、本體感覺與動作品質。",
+      "tags": [
         "期班"
       ],
       "keywords": [
-        "請假",
-        "不能上課",
-        "臨時有事",
-        "病假",
-        "事假",
-        "補課",
-        "缺課"
+        "8堂",
+        "期班"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "固定期班怎麼收費？",
+      "answer": "每期8堂2,800元。",
+      "tags": [
+        "收費"
+      ],
+      "keywords": [
+        "2800",
+        "8堂"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "隨選課程有哪些方案？",
+      "answer": "6堂2,800元(3個月)、20堂8,400元(1年)。",
+      "tags": [
+        "隨選"
+      ],
+      "keywords": [
+        "6堂",
+        "20堂"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "APP",
+      "question": "隨選課如何預約？",
+      "answer": "使用App預約想上的課程即可。",
+      "tags": [
+        "APP"
+      ],
+      "keywords": [
+        "App",
+        "預約"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "APP",
+      "question": "隨選課可以多人使用嗎？",
+      "answer": "可以，共用帳號或分享QR Code，24小時內截圖可使用。",
+      "tags": [
+        "QR"
+      ],
+      "keywords": [
+        "共用",
+        "QR"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "教練",
+      "question": "TRX教練有官方認證嗎？",
+      "answer": "皆為美國官方TRX認證並使用原廠器材。",
+      "tags": [
+        "TRX"
+      ],
+      "keywords": [
+        "認證",
+        "原廠"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "TRX課程有哪些特色？",
+      "answer": "可結合肌力、核心、瑜伽伸展與功能性訓練。",
+      "tags": [
+        "TRX"
+      ],
+      "keywords": [
+        "TRX"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "重量訓練有哪些器材？",
+      "answer": "搭配壺鈴、啞鈴、槓鈴進行不同課程。",
+      "tags": [
+        "重訓"
+      ],
+      "keywords": [
+        "壺鈴",
+        "啞鈴",
+        "槓鈴"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "8堂會練哪些部位？",
+      "answer": "完整安排上下肢、核心、伸展與全身肌力。",
+      "tags": [
+        "全身"
+      ],
+      "keywords": [
+        "全身",
+        "核心"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "新手適合上團體課嗎？",
+      "answer": "適合，12人以下小班制，依能力調整強度。",
+      "tags": [
+        "新手"
+      ],
+      "keywords": [
+        "新手",
+        "初學者"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "課程",
+      "question": "團體課會跟不上嗎？",
+      "answer": "不會，同一動作可依程度調整。",
+      "tags": [
+        "新手"
+      ],
+      "keywords": [
+        "跟不上"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "教練",
+      "question": "第一次需要諮詢嗎？",
+      "answer": "建議先免費諮詢，由教練評估需求。",
+      "tags": [
+        "諮詢"
+      ],
+      "keywords": [
+        "免費諮詢"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "教練",
+      "question": "團體課還是一對一？",
+      "answer": "想培養習慣可選團體課；特殊需求建議一對一。",
+      "tags": [
+        "課程"
+      ],
+      "keywords": [
+        "一對一",
+        "團體"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "教練",
+      "question": "一對一適合哪些人？",
+      "answer": "運動員、樂齡、癌後、特殊需求皆可。",
+      "tags": [
+        "一對一"
+      ],
+      "keywords": [
+        "樂齡",
+        "癌症"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "收費",
+      "question": "一對一如何收費？",
+      "answer": "體驗1000元(原價2000元)、10堂15000元、20堂28000元，期限1年。",
+      "tags": [
+        "收費"
+      ],
+      "keywords": [
+        "1000",
+        "15000"
       ],
       "priority": "high"
     },
     {
       "category": "請假",
-      "question": "補課可以上任何課程嗎？",
-      "answer": "可以，補課可自由選擇其他期班課程，不限原本報名的課程種類。",
+      "question": "期班可以請假嗎？",
+      "answer": "每4堂可補1堂，一期8堂最多補2堂。",
       "tags": [
-        "補課",
-        "課程",
-        "期班"
+        "請假"
       ],
       "keywords": [
-        "補課",
-        "換課",
-        "其他課程",
-        "課程選擇",
-        "補課課程"
+        "補課"
       ],
       "priority": "high"
     },
     {
       "category": "請假",
       "question": "補課有期限嗎？",
-      "answer": "有。補課需在當期期班課程期間內完成，無法保留至下一期使用。",
+      "answer": "需於當期期班內完成。",
       "tags": [
-        "補課",
-        "期限",
-        "期班"
+        "補課"
       ],
       "keywords": [
-        "補課期限",
-        "補課多久",
-        "可以下期補嗎",
-        "補課時間",
-        "補課保留"
+        "期限"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "請假",
+      "question": "如何請假？",
+      "answer": "可電話、LINE(@myd1827c)或Facebook私訊聯繫。",
+      "tags": [
+        "請假"
+      ],
+      "keywords": [
+        "LINE",
+        "電話"
+      ],
+      "priority": "high"
+    },
+    {
+      "category": "請假",
+      "question": "如何補課？",
+      "answer": "電話、LINE、FB或現場告知教練安排。",
+      "tags": [
+        "補課"
+      ],
+      "keywords": [
+        "補課"
       ],
       "priority": "high"
     },
     {
       "category": "課程",
-      "question": "期班課程共有幾堂？費用是多少？",
-      "answer": "團體期班課程每期共 8 堂，費用為新台幣 2,800 元。",
+      "question": "政府公告停班停課怎麼辦？",
+      "answer": "課程將展延，不列入補課次數。",
       "tags": [
-        "期班",
-        "費用",
-        "團體課程"
+        "停班"
       ],
       "keywords": [
-        "8堂",
-        "課程費用",
-        "2800",
-        "一期多少錢",
-        "團體課"
+        "颱風"
       ],
       "priority": "high"
     },
     {
       "category": "課程",
-      "question": "遇到政府公告停班停課，課程怎麼辦？",
-      "answer": "若因政府機關公告停班停課而停課，該堂課將安排展延，不會列入請假或補課次數。",
+      "question": "可以優先續報嗎？",
+      "answer": "原班學員享優先續報保留名額。",
       "tags": [
-        "停班停課",
-        "展延",
-        "政府公告"
+        "續報"
       ],
       "keywords": [
-        "颱風",
-        "停班停課",
-        "政府公告",
-        "課程取消",
-        "課程延期",
-        "展延"
+        "續報"
       ],
-      "priority": "high"
+      "priority": "normal"
     }
   ]
 }
